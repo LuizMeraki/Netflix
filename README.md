@@ -1,5 +1,5 @@
 # Netflix 📽
-- Clone da Netflix que entrega um layout bem próximo ao site original. Este projeto não possui funcionalidades de back-end e nem a links, este projeto foi com o intuito de por em prática os conhecimentos em HTML e CSS.  Com exceção da seção FAQ, este site está semelhante ao oficial. Existe outro detalhe que está faltando, será que você descobre qual? Confira você mesmo(a)!👇
+- Clone da Netflix que entrega um layout bem próximo ao site original. Este projeto não possui funcionalidades de back-end e nem a links, este projeto foi criado com o intuito de por em prática os conhecimentos em HTML e CSS.  Com exceção da seção FAQ, este site está semelhante ao oficial. Existe outro detalhe que está faltando, será que você descobre qual? Confira você mesmo(a)!👇
 
 ## 🖼 - Confira algumas imagens do projeto:
 
