@@ -393,6 +393,7 @@ footer span {
      }
      .footer-boxes a, .footer-boxes span, footer span {
      margin: 5px 0;
+     }
 }
 
 @media (max-width: 450px) {
